@@ -115,7 +115,7 @@ During report generation (second step), the XML files are transformed to a HTML 
 4. The Python interpreter name specified in the **Name** field, becomes visible in the list of available interpreters. Click **OK** to apply the changes.
 
 For more info please [check here](https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html)
-</details>
+</details>sdasdasd
 
 <details>
   <summary><b>PyCharm - Choosing Your Testing Framework</b></summary>
